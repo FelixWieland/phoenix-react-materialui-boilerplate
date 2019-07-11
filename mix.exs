@@ -43,7 +43,6 @@ defmodule Boilerplate.Mixfile do
       {:credo, "~> 0.10", only: [:dev, :test], runtime: false},
       {:cowboy, "~> 1.1"},
       {:comeonin, "~> 4.1"},
-      {:bcrypt_elixir, "~> 1.1"},
       {:plug_cowboy, "~> 1.0"},
       {:guardian, "~> 1.1"}
     ]

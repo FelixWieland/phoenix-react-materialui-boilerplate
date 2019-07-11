@@ -1,7 +1,7 @@
 defmodule BoilerplateWeb.Endpoint do
   use Phoenix.Endpoint, otp_app: :boilerplate
 
-  socket("/socket", BoilerplateWeb.UserSocket)
+  #socket("/socket", BoilerplateWeb.UserSocket)
 
   # Serve at "/" the static files from "priv/static" directory.
   #

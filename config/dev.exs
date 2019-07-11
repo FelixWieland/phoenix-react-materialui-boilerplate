@@ -58,7 +58,7 @@ config :boilerplate, Boilerplate.Repo,
   username: "postgres",
   password: "root",
   database: "hoic",
-  hostname: "localhost",
+  hostname: "192.168.178.74",
   pool_size: 10
 
 # Configure Guardian secret key
